@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://norway.avokatfinder.com/sitemap.xml
