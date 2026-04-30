@@ -1,5 +1,33 @@
 # AvökatFinder Norway
-> English-speaking law firm directory for Norway
+> The English-language directory of lawyers and law firms in Norway for expats, foreign nationals and international businesses.
 
-Directory: https://norway.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://norway.avokatfinder.com/: Home — find an English-speaking lawyer in Norway
+- https://norway.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Norway
+- https://norway.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Norway legal terms
+- https://norway.avokatfinder.com/blog/: Expat legal guides and property law articles for Norway
+- https://norway.avokatfinder.com/about/: About AvökatFinder Norway
+- https://norway.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://norway.avokatfinder.com/glossary/arveoppgjor/
+- https://norway.avokatfinder.com/glossary/budrunde/
+- https://norway.avokatfinder.com/glossary/foreldreansvar/
+- https://norway.avokatfinder.com/glossary/grunnbok-no/
+- https://norway.avokatfinder.com/glossary/husleiekontrakt/
+- https://norway.avokatfinder.com/glossary/personnummer-no/
+- https://norway.avokatfinder.com/glossary/samboeravtale/
+- https://norway.avokatfinder.com/glossary/selveier-vs-andel/
+- https://norway.avokatfinder.com/glossary/skifteattest/
+- https://norway.avokatfinder.com/glossary/tinglysing/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Norway
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://norway.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
